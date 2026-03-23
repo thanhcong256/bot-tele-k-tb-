@@ -4,10 +4,10 @@
 #include <ArduinoJson.h>
 
 // --- THÔNG TIN CẤU HÌNH ---
-const char* ssid = "THUY";
-const char* password = "0917976725";
-const char* BOTtoken = "7706361450:AAEXvpNW3t70dyizEITFV4PBXzrM6wnvltM"; // Dán Token từ BotFather vào đây
-const char* CHAT_ID = "7700024714";       // Dán Chat ID từ IDBot vào đây
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxxx";
+const char* BOTtoken = "xxxxx"; // Dán Token từ BotFather vào đây
+const char* CHAT_ID = "xxxxxxx";       // Dán Chat ID từ IDBot vào đây
 
 const int relay1 = 14;
 const int relay2 = 12;
